@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko"
-title                    : "Slow Learner's blog"
+title                    : "G.W Learner's blog"
 title_separator          : "-"
-name                     : "Junho Baik"
-description              : "A personal web for Junho Baik"
+name                     : "GangWoo, Kim"
+description              : "A personal posting for data analytics"
 url                      : "https://gwreader.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "GwReader/gwreader.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -22,7 +22,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
-    shortname            : dev-hundred-blog
+    shortname            : gwreader-blog
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -84,11 +84,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Junho Baik"
+  name             : "GangWoo, Kim"
   avatar           : "/assets/images/profile.png"
-  bio              : "Junior Front-End Web Developer"
+  bio              : "Junior Data Analyst"
   location         : "Korea"
-  email            : "junhobaik@gmail.com"
+  email            : "kgw8965@gmail.com"
   uri              :
   home             : "#" # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "junhobaik"
+  github           : "GwReader"
   gitlab           :
   google_plus      :
   keybase          :
