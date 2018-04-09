@@ -87,7 +87,7 @@ author:
   name             : "GangWoo, Kim"
   avatar           : "/assets/images/profile_gw.png"
   bio              : "Junior Data Analyst"
-  location         : "Korea Univ. Dpt of Statistics"
+  location         : "Dpt. of Statistics, Korea Univ."
   email            : "kgw8965@gmail.com"
   uri              :
   home             : "#" # null (default), "absolute or relative url to link to author home"
