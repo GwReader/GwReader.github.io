@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko"
-title                    : "G.W Learner's blog"
+title                    : "G.W Learner's Notes"
 title_separator          : "-"
 name                     : "GangWoo, Kim"
 description              : "A personal posting for data analytics"
